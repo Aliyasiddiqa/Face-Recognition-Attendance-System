@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "your_mysql_user",
+        "password": "your_mysql_password",
+        "database": "attendance_db",
+        "table": "attendance"
+    }
+}
