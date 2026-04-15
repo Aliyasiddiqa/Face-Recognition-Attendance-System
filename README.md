@@ -38,8 +38,4 @@ A beginner-friendly attendance system with:
 - Train: Press *Train Model* to create `trainer.yml`.
 - Start Attendance: Press *Start Attendance* to recognize faces and mark attendance in DB or `attendance.csv`.
 
-**Notes**
-- If `cv2.face` is missing, ensure you installed `opencv-contrib-python`.
-- For best results, take multiple clear face images under good lighting.
-- You can customize number of samples and model settings in `detector.py`.
 
