@@ -43,4 +43,3 @@ A beginner-friendly attendance system with:
 - For best results, take multiple clear face images under good lighting.
 - You can customize number of samples and model settings in `detector.py`.
 
-If you want, I can modify this project (add MySQL schema SQL, GUI styling, email export, etc.).
