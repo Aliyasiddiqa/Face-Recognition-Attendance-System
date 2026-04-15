@@ -1,3 +1,5 @@
+Face Recognition Attendance System — A2 (GUI + MySQL)
+
 🚀 Excited to share my latest project: Face Recognition Attendance System
 
 I built an AI-based attendance system that automates the traditional manual process using computer vision and machine learning.
@@ -23,13 +25,7 @@ Python | OpenCV | Machine Learning Basics | Database Integration | GUI Developme
 
 This project is a step towards building smarter, automated systems for real-world applications like classrooms and workplaces.
 
-I’m currently looking for opportunities in Software Development / AI-based roles where I can apply and grow my skills.
-
-Would love your feedback and suggestions! 😊
-
 #Python #OpenCV #MachineLearning #AI #FaceRecognition #SoftwareDevelopment #Fresher #Projects #Learning #Innovation
-
-# Face Recognition Attendance System — A2 (GUI + MySQL)
 
 **What this is**
 A beginner-friendly attendance system with:
