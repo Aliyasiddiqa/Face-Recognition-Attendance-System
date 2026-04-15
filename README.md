@@ -1,3 +1,34 @@
+🚀 Excited to share my latest project: Face Recognition Attendance System
+
+I built an AI-based attendance system that automates the traditional manual process using computer vision and machine learning.
+
+🔍 Key Highlights:
+• Face detection & recognition using OpenCV (LBPH algorithm)
+• Real-time attendance marking via webcam
+• User-friendly Tkinter GUI
+• Attendance stored in MySQL (with CSV fallback)
+• Model training using captured face datasets
+• Export attendance data for reporting
+
+💡 This project helped me strengthen my skills in:
+Python | OpenCV | Machine Learning Basics | Database Integration | GUI Development
+
+📌 How it works:
+1️⃣ Capture face samples
+2️⃣ Train the model
+3️⃣ Recognize faces in real-time
+4️⃣ Automatically mark attendance
+
+🔧 Tech Stack: Python, OpenCV, Tkinter, MySQL
+
+This project is a step towards building smarter, automated systems for real-world applications like classrooms and workplaces.
+
+I’m currently looking for opportunities in Software Development / AI-based roles where I can apply and grow my skills.
+
+Would love your feedback and suggestions! 😊
+
+#Python #OpenCV #MachineLearning #AI #FaceRecognition #SoftwareDevelopment #Fresher #Projects #Learning #Innovation
+
 # Face Recognition Attendance System — A2 (GUI + MySQL)
 
 **What this is**
