@@ -119,19 +119,3 @@ def start_recognition(confidence_threshold=60):
             break
     cam.release()
     cv2.destroyAllWindows()
-build = [
-    { name = "httpx" },
-    { name = "jinja2" },
-    { name = "markdown-it-py" },
-]
-dev = [
-    { name = "httpx" },
-    { name = "jinja2" },
-    { name = "markdown-it-py" },
-    { name = "pytest" },
-    { name = "ruff" },
-    { name = "ty" },
-    { name = "watchdog" },
-]
-include except ("rkdown")
-        Sys.py (Ķ
